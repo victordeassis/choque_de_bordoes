@@ -1,0 +1,35 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.brand-logo {
+  width: 100%;
+}
+.button-premier {
+  background-color: #41F0FF;
+  color: #370040;
+}
+.purple-text {
+  color: #370040;
+}
+.maurilio-img {
+  width: 100%;
+  margin: 0 auto;
+  border:5px solid #41F0FF;
+}
+body {
+  background-color: #370040;
+}
+button {
+  font-weight: 600;
+}
